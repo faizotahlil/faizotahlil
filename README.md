@@ -1,13 +1,30 @@
-## Hey 👋, my Name is Faizo Tahlil
+# Hey 👋, This is Faizo Tahlil
 
-<p align='left'>Dedicated and self-driven Data Analyst with hands-on experience improving business operations, enhancing workflows, and supporting data-informed decisions. Known for spotting inefficiencies, streamlining processes, and contributing to measurable improvements across teams.
+[![Email](https://img.shields.io/badge/Email-Faizo.Tahlil0%40gmail.com-red)](mailto:Faizo.Tahlil0@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View-brightgreen)](#)
 
-Developing as a Data Scientist through real projects and applied machine-learning work. Strong foundation in Python, SQL, and statistical modeling, with a passion for uncovering trends, predicting outcomes, and building solutions that help organizations operate more intelligently. I genuinely enjoy learning new tools, exploring new ideas, and continuously expanding my skills to stay sharp and innovative in a fast-moving data world.
+Hi! I’m **Faizo**, a dedicated **Data Analyst** and developing **Data Scientist** with hands-on experience improving business operations, enhancing workflows, and supporting data-informed decisions. I specialize in analytics, visualization, Python, and SQL. I’m passionate about uncovering insights, solving real problems, and building models that help organizations operate smarter.
 
-Things I enjoy 🤍
-	•	📚 Learning new skills and technologies
-	•	🧠 Solving complex problems
-	•	📊 Building data models & dashboards
-	•	🔍 Finding patterns in messy datasets
-	•	🤝 Collaborating and improving processes
-	•	🚀 Growing a little every single day
+I’ve completed multiple technical projects through the **TripleTen Data Science program** and **Google Data Analytics Certificate**, including forecasting, revenue analysis, customer behavior modeling, and cost-optimization tasks. My background in operations and real estate helps me combine data logic with practical business impact.
+
+Currently, I’m expanding my skills in **machine learning**, **time-series forecasting**, and building **end-to-end analytical solutions**. I love learning new tools, exploring new ideas, and constantly improving my craft.
+
+---
+
+## Some facts about me
+
+- 📚 I enjoy learning new skills and technologies  
+- 🧠 Love solving complex data problems  
+- 📊 Passionate about model building & analytics  
+- 🐍 Python and SQL are my go-to tools  
+- 🤝 I enjoy collaborating and improving processes  
+- 🚀 My goals for 2025: grow as a data scientist & launch impactful projects  
+
+---
+
+## 📌 Find me here
+
+- **Email:** Faizo.Tahlil0@gmail.com  
+- **LinkedIn:** https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile  
+- **Portfolio:** coming soon  
