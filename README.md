@@ -19,7 +19,7 @@ Currently, I’m expanding my skills in **machine learning**, **time-series fore
 - 📊 Passionate about model building & analytics  
 - 🐍 Python and SQL are my go-to tools  
 - 🤝 I enjoy collaborating and improving processes  
-- 🚀 My goals for 2025: grow as a data scientist & launch impactful projects  
+- 🚀 My goals for 2025 and for 2026: grow as a data Analyst & launch impactful projects  
 
 ---
 
